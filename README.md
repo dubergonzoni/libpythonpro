@@ -8,3 +8,5 @@ This course is taught how to contribute to open source projects.
 Topics to be covered:
 1. Git
 2. Virtualenv
+3. Pip
+
