@@ -5,4 +5,7 @@ This course is taught how to contribute to open source projects.
 
 [Python Pro](https://python.pro.br)
 
-1. Pip
+Topics to be covered:
+1. Git
+2. Virtualenv
+3. Pip
