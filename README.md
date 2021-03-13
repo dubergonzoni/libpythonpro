@@ -5,3 +5,4 @@ This course is taught how to contribute to open source projects.
 
 [Python Pro](https://python.pro.br)
 
+1. Pip
