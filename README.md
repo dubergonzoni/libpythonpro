@@ -5,6 +5,8 @@ This course is taught how to contribute to open source projects.
 
 [Python Pro](https://python.pro.br)
 
+[![Build Status](https://travis-ci.org/dubergonzoni/libpythonpro.svg?branch=main)](https://travis-ci.org/dubergonzoni/libpythonpro)
+
 Supported Python version 3
 
 Installation:
