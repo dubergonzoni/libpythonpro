@@ -6,7 +6,8 @@ pyflakes==2.2.0
 
 
 #Pytest dependencies
-py>=1.8.2
+pytest==6.2.4
+py==1.8.2
 pluggy==0.13.1
 attrs==19.2.0
 pyparsing==2.0.2

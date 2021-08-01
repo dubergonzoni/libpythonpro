@@ -1,5 +1,5 @@
 from libpythonpro.spam.email_sender import Sender, InvalidEmail
-import pytest
+from libpythonpro.tests.test_spam.conftest import pytest
 
 
 def test_email_sender():
