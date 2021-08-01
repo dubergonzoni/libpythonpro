@@ -13,5 +13,5 @@ pyparsing==2.0.2
 
 
 # Coverage
-coverage==5.5
+coverage==6.0b1
 pytest-cov==2.12.1
