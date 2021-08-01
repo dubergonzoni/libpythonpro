@@ -4,8 +4,14 @@ mccabe==0.6.1
 pycodestyle==2.6.0
 pyflakes==2.2.0
 
+
 #Pytest dependencies
 py>=1.8.2
 pluggy==0.13.1
 attrs==19.2.0
 pyparsing==2.0.2
+
+
+# Coverage
+coverage==5.5
+pytest-cov==2.12.1
