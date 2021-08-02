@@ -14,5 +14,4 @@ def find_avatar(user):
     return resp.json()['avatar_url']
 
 
-if __name__ == '__main__':
-    print(find_avatar('dubergonzoni'))
+
