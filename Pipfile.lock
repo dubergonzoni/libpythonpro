@@ -16,7 +16,7 @@
         ]
     },
     "default": {
-        "requestes": {
+        "requests": {
             "hashes": [
                 "sha256:13491483ec8a5a8ed296b7e9f88a4297a283421beefe740e69d6c359b15dad8f"
             ],
