@@ -18,10 +18,10 @@
     "default": {
         "requests": {
             "hashes": [
-                "sha256:13491483ec8a5a8ed296b7e9f88a4297a283421beefe740e69d6c359b15dad8f"
+                "sha256:8e5643905bf20a308e25e4c1dd379117c09000bf8a82ebccc462cfb1b34a16b5",
+                "sha256:f71a09d7feba4a6b64ffd8e9d9bc60f9bf7d7e19fd0e04362acb1cfc2e3d98df"
             ],
-            "index": "pypi",
-            "version": "==0.0.1"
+            "version": "==2.27.0"
         }
     },
     "develop": {}
